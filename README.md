@@ -12,6 +12,6 @@ Category & Sub-Category Analysis – Profitability across product segments
 Payment Mode Trends – Preferred payment methods by users
 The dashboard includes filters for quarterly and state-wise analysis, enabling dynamic data exploration. The project is built in Power BI using data transformation techniques, and advanced visualizations to drive data-driven decision-making.
 
-**Disclaimer: **
+**Disclaimer:**
 
 The projects and materials presented are solely for educational and learning purposes. They are intended to enhance understanding and demonstrate concepts practically. These projects should not be considered professional, financial, investment, legal, or business advice. Any reliance on the information provided is at your own discretion. For specific guidance, please consult a qualified professional.
