@@ -1,7 +1,9 @@
 **Volatility Analysis & Forecasting of Top 5 Steel Sector Stocks Using Advanced Models**
+
 This project analyzes the volatility of the top five stocks in the steel and allied sectors over the last five years. Using advanced econometric models such as GARCH, EGARCH, and TGARCH, it examines news impact, spillover effects, and asymmetric volatility patterns. The study further forecasts stock price movements and provides insights for potential buying and selling decisions over the next 15 days. Data is sourced from reliable financial APIs, and the analysis is conducted using Collab with key libraries like pandas, NumPy, statsmodels, and arch
 
 **Power BI E-Commerce Sales Dashboard – Insights & Analytics**
+
 This project presents an interactive Power BI dashboard analyzing e-commerce sales data. Key metrics include total sales amount, profit, quantity sold, and average order value (AOV). The dashboard provides deep insights through visualizations such as:
 Sales & Profit Trends – Monthly profit analysis
 Regional Sales Performance – Sales distribution by state
